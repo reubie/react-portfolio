@@ -55,15 +55,15 @@ export const comments = [
     name: "Frida Uchi Malo",
     post: "Marketing Executive and Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "As a marketing executive, I am thoroughly impressed with the products produced by this developer, showcasing exceptional skills in both web design and mobile development. Their attention to detail and ability to bring our visions to life has been a significant asset to our team, and we are thrilled to have them on board.",
     img: "./frida.jpg",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Lisa Wanjiru",
+    post: "Human Resource Manager and Administrator",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
+      "The software developer is a highly skilled and talented individual with a strong background in web design and mobile development, consistently delivering exceptional results.",
+    img: "./lisa.png",
   },
   {
     name: "Anamika Sandula",
