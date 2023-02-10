@@ -9,7 +9,7 @@ import Work from './components/Work/Work'
 import css from './styles/App.module.scss'
 const App = () => {
   //don't forget to add font link in index.html
-  return (
+  
     <div className={`bg-primary ${css.container}`}>
       <Header/>
       <Hero/>
@@ -19,7 +19,7 @@ const App = () => {
       <People/>
       <Footer/>
     </div>
-  )
+  
 }
 
 export default App
