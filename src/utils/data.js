@@ -36,7 +36,7 @@ export const workExp = [
   },
   {
     place: "Maaditech Limited",
-    tenure: "March 2020 - April 2020",
+    tenure: "March 2020 - April 2022",
     role: "Lead Mobile Developer",
     detail:
       "•	A lead android developer who is proficient in JavaScript, Android Java, Kotlin and Flutter",
