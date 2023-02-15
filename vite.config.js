@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 
 export default defineConfig({
-  base: "/tweak/",
+  base: "/react-portfolio/",
   plugins: [react()],
 });
