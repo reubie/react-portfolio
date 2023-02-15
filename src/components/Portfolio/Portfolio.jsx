@@ -26,9 +26,15 @@ const Portfolio = () => {
 
 
         <div className={`flexCenter ${css.showCase}`}>
-            <motion.img variants={fadeIn("up", "tween", .5, .6)} src="./gochapaa.png" alt="project" />
-            <motion.img variants={fadeIn("up", "tween", .7, .6)} src="./nilipie.png" alt="project" />
-            <motion.img variants={fadeIn("up", "tween", .9, .6)} src="./marafiki.png" alt="project" />
+        <a href="https://gochapaa.io/">
+          <motion.img variants={fadeIn("up", "tween", .5, .6)} src="./gochapaa.png" alt="project" />
+        </a>
+        <a href="https://nilipie.co.ke/web/index.php">
+          <motion.img variants={fadeIn("up", "tween", .5, .6)} src="./nilipie.png" alt="project" />
+        </a>
+        <a href="https://marafiki.co.ke/frontend/web/index.php?r=site%2Findex">
+          <motion.img variants={fadeIn("up", "tween", .5, .6)} src="./marafiki.png" alt="project" />
+        </a>
         </div>
       </div>
     </motion.section>
